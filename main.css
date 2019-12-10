@@ -1,6 +1,6 @@
 :root {
   --main-white: #f0f0f0;
-  --main-purple: #45567d;
+  --main-purple: #A591B9;
   --main-blue: #45567d;
   --main-gray: #303841;
 }
@@ -161,7 +161,8 @@ img {
 .projects-section-header {
   max-width: 640px;
   margin: 0 auto 6rem auto;
-  border-bottom: 0.2rem solid var(--main-white);
+  border-bottom: 0.2rem solid var(--main-purple);
+  color: var(--main-purple);
 }
 
 @media (max-width: 28.75em) {
